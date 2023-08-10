@@ -1,0 +1,1 @@
+This github repo is for buying gta cash and rp legitametley and fast for a cheap price while being safe, because everywhere else is the opposite. I want to make it much easer Supported Platfroms :PC rockstar games, epic games, steam
