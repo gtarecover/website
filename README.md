@@ -3,25 +3,23 @@ Contributors Forks Stargazers Issues MIT License LinkedIn
 Logo
 Best-README-Template
 
-An awesome README template to jumpstart your projects!
+My website to Buy the cheapest and best recoveries for games like Call of duty And Grand Theft Auto
 Explore the docs »
 
-View Demo · Report Bug · Request Feature
+ Request Games
 Table of Contents
 About The Project
 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
 
-    Your time should be focused on creating something amazing. A project that solves a problem and helps others
-    You shouldn't be doing the same tasks over and over like creating a README from scratch
-    You should implement DRY principles to the rest of your life 😄
+    You shouldnt have to spend your whole life grinding for a camo or a unlock when you could just get it for Free!
+    
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-Use the BLANK_README.md to get started.
+
+Go to recoverygod.sellpass.io to Buy!
 
 (back to top)
 Built With
