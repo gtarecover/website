@@ -4,11 +4,11 @@ Logo
 Best-README-Template
 
 My website to Buy the cheapest and best recoveries for games like Call of duty And Grand Theft Auto
-Explore the docs »
+Explore the Read Me
 
- Request Games
-Table of Contents
-About The Project
+ Request Games You would like to see account recoveries on
+
+About my website
 
 
 
@@ -22,16 +22,13 @@ Here's why:
 Go to recoverygod.sellpass.io to Buy!
 
 (back to top)
-Built With
+We offer
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-    Next
-    React
-    Vue
-    Angular
-    Svelte
-    Laravel
-    Bootstrap
-    JQuery
+    Accounts
+    Recoveries
+    Money Drops(if Possible)
+    Rp drops
+    
+ 
 
