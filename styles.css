@@ -1,20 +1,25 @@
-CSS file (styles.css):
-```css
+css
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Kaushan Script', cursive;
     margin: 30px;
+    background-color: #000000; /* Black background */
+    color: #FFFFFF; /* White text color */
 }
 
 h1 {
     text-align: center;
     color: #FF0000; /* Red color */
+    font-weight: bold;
 }
 
 h2 {
     color: #0000FF; /* Blue color */
+    text-align: center;
 }
 
 p {
-    color: #777;
+    color: #CCCCCC; /* Light gray text color */
+    text-align: justify;
 }
-```
