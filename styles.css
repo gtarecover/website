@@ -1,8 +1,9 @@
 css
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
 
 body {
-    font-family: 'Kaushan Script', cursive;
+    font-family: 'Roboto', sans-serif;
     margin: 30px;
     background-color: #000000; /* Black background */
     color: #FFFFFF; /* White text color */
@@ -10,16 +11,18 @@ body {
 
 h1 {
     text-align: center;
-    color: #FF0000; /* Red color */
+    color: #FF0000; /* Red title color */
     font-weight: bold;
 }
 
 h2 {
-    color: #0000FF; /* Blue color */
-    text-align: center;
+    color: #FF0000; /* Red title color*/
 }
 
 p {
-    color: #CCCCCC; /* Light gray text color */
     text-align: justify;
+}
+
+.cursive-font {
+    font-family: 'Kaushan Script', cursive;
 }
