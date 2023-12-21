@@ -4,7 +4,8 @@
 
 ![image](https://github.com/gtarecover/website/assets/141908809/eb0a1071-bc0d-41cc-aecb-8ae221261334)
 
-![Uploading image.png…]()
+![image](https://github.com/gtarecover/website/assets/141908809/fc242d75-4dd4-4d93-b303-87fbc037633c)
+
 
 
 
